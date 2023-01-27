@@ -1,0 +1,1 @@
+Practices for MyOffice SDK for Python Document API.
